@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhinandan999
-- 👀 I’m interested in Second year
+- 👀 I’m in Second year in CSE(AI & ML ) Branch
 - 🌱 I’m currently learning C++,Networking.
 - 💞️ I’m looking to collaborate for internship
 - 📫 How to reach me abhinandanmadiwal999@gmail.com
